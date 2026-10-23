@@ -9,7 +9,7 @@
 
 *Exploring the intersection of software and hardware, building projects, and turning ideas into reality.*
 
-<a href="https://www.linkedin.com/in/ivan-dzhumbishliev-b724b539a/">
+<a href="https://www.linkedin.com/in/ivan-dzh">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
