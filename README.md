@@ -1,36 +1,36 @@
-# 👋 Hey, I'm Ivan!
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Enthusiast;Full-Stack+Developer+in+Progress;Robotics+%26+Automation+Explorer;Building+Ideas+Into+Reality" alt="Animated introduction" />
+# 👋 Hey, I'm Ivan!
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Enthusiast;Full-Stack+Developer+in+Progress;Robotics+%26+Automation+Explorer;Building+Ideas+Into+Reality" alt="Animated introduction" />
 
-  **Software • Hardware • Robotics • Innovation**
+### Software · Hardware · Robotics · Innovation
 
-  *I enjoy exploring how software and hardware come together to solve real-world problems.*
+*Exploring the intersection of software and hardware, building projects, and turning ideas into reality.*
 
-  <br/>
-
-  <a href="https://www.linkedin.com/in/ivan-dzhumbishliev-b724b539a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/ivan-dzhumbishliev-b724b539a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Exploring **software development**, from backend systems to user-facing applications.
-- 🔌 Interested in **embedded systems**, electronics, and low-level programming.
-- 🤖 Fascinated by **robotics, automation, and intelligent systems**.
-- 🌐 Building projects that combine different technologies into useful solutions.
-- 🧠 Always learning, experimenting, and turning ideas into working prototypes.
-- 🤝 Open to collaborating on interesting projects and learning from other developers.
-
+## 🐍 Contributions
 
 <div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanDjumbishliev/IvanDjumbishliev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IvanDjumbishliev/IvanDjumbishliev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/IvanDjumbishliev/IvanDjumbishliev/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
+
+
+<div>
 
   ### 💬 Let's Build Something Interesting
 
