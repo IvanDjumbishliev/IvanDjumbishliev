@@ -29,23 +29,6 @@
 - 🧠 Always learning, experimenting, and turning ideas into working prototypes.
 - 🤝 Open to collaborating on interesting projects and learning from other developers.
 
-## 🛠️ Interests & Technologies
-
-<div align="center">
-
-### 💻 Software Development
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,linux" alt="Programming and development tools" />
-
-### 🌐 Full-Stack Development
-
-<img src="https://skillicons.dev/icons?i=react,typescript,flask,nodejs,html,css" alt="Web development technologies" />
-
-### 🔌 Embedded Systems & Robotics
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" alt="Embedded and hardware tools" />
-
-</div>
 
 <div align="center">
 
