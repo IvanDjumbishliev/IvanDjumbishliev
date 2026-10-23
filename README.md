@@ -12,7 +12,9 @@
 
   <br/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-IvanDjumbishliev-181717?style=for-the-badge&logo=github)](https://github.com/IvanDjumbishliev)
+  <a href="https://www.linkedin.com/in/ivan-dzhumbishliev-b724b539a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 
 </div>
 
@@ -44,37 +46,6 @@
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" alt="Embedded and hardware tools" />
 
 </div>
-
-## 🌟 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🌱 [WhiteMonsters](https://github.com/Dido-G/WhiteMonsters) | A smart plant-watering application exploring connected devices and plant care. |
-| 🔗 [FreeLife](https://github.com/IvanDjumbishliev/FreeLife) | An open-source vision for connecting devices across operating systems without vendor lock-in. |
-| 🎓 [Student Helper](https://github.com/IvanDjumbishliev/Student_helper) | A student-focused project aiming to make everyday academic life easier. |
-| 🤖 [IvanTheForwarder](https://github.com/ivanAleksandrov09/IvanTheForwarder) | An AI hackathon project developed during Crossroads AI Hackathon 2026. |
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanDjumbishliev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDjumbishliev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=IvanDjumbishliev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## ⚡ Beyond the Code
-
-I enjoy working on projects that bridge the gap between the digital and physical worlds — whether that's developing an application, experimenting with electronics, or exploring how intelligent systems can make everyday tasks easier.
-
-**My goal: keep learning, keep building, and make technology useful.**
-
---
 
 <div align="center">
 
